@@ -1,0 +1,8 @@
+{
+    "window.zoomLevel": 0,
+    "explorer.confirmDragAndDrop": false,
+    "editor.tabSize": 2,
+    "prettier.eslintIntegration": true,
+    "prettier.jsxBracketSameLine": true,
+    "terminal.integrated.shell.osx": "zsh"
+}
